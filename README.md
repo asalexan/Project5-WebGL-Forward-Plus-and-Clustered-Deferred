@@ -92,3 +92,5 @@ The only optimization I was able to achieve was to store the cluster positions c
 * [minimal-gltf-loader](https://github.com/shrekshao/minimal-gltf-loader) by [@shrekshao](https://github.com/shrekshao)
 
 ### Bloopers
+![Blooper 1](img/blooper1.png)
+A million frustums! If you forget to destroy your wireframe on each tick, this colorful image is the result.
